@@ -2,7 +2,7 @@
 <h3 align="center">A student at HCMC Posts and Telecommunications Institute of Technology</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="480" height="480" alt="GIF description">
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="400" height="400" alt="GIF description">
 </p>
 
 <h3 align="left">About me:</h3>
