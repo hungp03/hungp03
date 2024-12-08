@@ -17,6 +17,7 @@
 <a href="mailto:ph.hung0903@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungp03&show_icons=true&locale=en&layout=compact" alt="hungp03" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungp03&show_icons=true&locale=en&layout=compact" alt="hungp03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungp03&show_icons=true&locale=en" alt="hungp03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungp03&show_icons=true&locale=en" alt="hungp03" /></p>-->
+
