@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hung Pham</h1>
-<h3 align="center">A student at HCMC Posts and Telecommunications Institute of Technology</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="400" height="400" alt="GIF description">
-</p>
+<h3 align="center">Currently a student at HCMC Posts and Telecommunications Institute of Technology, with a strong passion for becoming a Backend Developer.</h3>
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Spring Framework and Node.js**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💻 All of my projects are available at [here](https://github.com/hungp03?tab=repositories)
 
@@ -17,7 +13,8 @@
 <a href="mailto:ph.hung0903@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="40" /></a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungp03&show_icons=true&locale=en&layout=compact" alt="hungp03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungp03&show_icons=true&locale=en" alt="hungp03" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungp03&show_icons=true&locale=en&layout=compact" alt="hungp03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungp03&" alt="hungp03" /></p>
 
